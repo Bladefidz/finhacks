@@ -1,0 +1,313 @@
+"","initial_list_status","purpose","int_rate","installment","annual_inc","dti","verification_status","grade","revol_bal","inq_last_12m","delinq_2yrs","home_ownership","not_paid","log_inc","verified","grdCtoA"
+"6","w","debt_consolidation",10.91,130.79,49000,5.12,"Not Verified","B",2016,5,0,"MORTGAGE",1,10.7995755770928,0,1
+"8","w","credit_card",10.91,915.5,95000,33.11,"Not Verified","B",27588,1,0,"RENT",1,11.4616321705827,0,1
+"9","w","home_improvement",17.09,713.96,150000,14.26,"Source Verified","D",27024,8,0,"MORTGAGE",1,11.9183905730784,1,0
+"10","w","debt_consolidation",18.06,408.73,85000,17.66,"Verified","D",11719,1,0,"RENT",0,11.3504065354725,1,0
+"26","w","debt_consolidation",18.06,578.93,40000,25.32,"Source Verified","D",15264,2,0,"RENT",1,10.5966347330961,1,0
+"38","w","debt_consolidation",22.91,579.95,50000,22.44,"Source Verified","E",0,0,1,"MORTGAGE",1,10.8197782844103,1,0
+"39","f","credit_card",14.08,437.98,45000,28.03,"Source Verified","C",16180,2,0,"RENT",1,10.7144177687525,1,0
+"41","w","home_improvement",9.44,192.03,45000,3.65,"Not Verified","B",3044,1,1,"RENT",0,10.7144177687525,0,1
+"42","w","debt_consolidation",10.42,194.79,71000,16.87,"Source Verified","B",2780,7,0,"MORTGAGE",0,11.1704351560235,1,1
+"44","f","debt_consolidation",29.69,916.47,70000,21.65,"Verified","F",10609,3,0,"RENT",1,11.1562505210315,1,0
+"46","w","home_improvement",17.09,853.18,64800,37.56,"Not Verified","D",211088,2,0,"MORTGAGE",1,11.0790608823404,0,0
+"51","f","debt_consolidation",13.59,271.84,67000,14.92,"Not Verified","C",10032,1,0,"MORTGAGE",0,11.1124478983731,0,0
+"53","w","debt_consolidation",23.88,636.39,65000,32.92,"Not Verified","E",12043,6,0,"MORTGAGE",0,11.0821425488778,0,0
+"57","w","debt_consolidation",9.44,160.03,45000,16.05,"Not Verified","B",13299,3,0,"MORTGAGE",1,10.7144177687525,0,1
+"60","w","debt_consolidation",11.99,132.84,36000,35.4,"Not Verified","B",6169,1,0,"MORTGAGE",1,10.4912742174382,0,1
+"71","w","debt_consolidation",6.08,974.67,110000,22.91,"Source Verified","A",31773,5,0,"RENT",0,11.6082356447746,1,1
+"78","f","debt_consolidation",16.02,351.67,55000,18.02,"Verified","C",12516,1,0,"RENT",1,10.9150884642146,1,0
+"82","w","credit_card",6.72,307.5,64398,9.36,"Source Verified","A",6724,3,1,"RENT",0,11.0728378557096,1,1
+"87","w","debt_consolidation",13.59,345.85,110000,5.05,"Not Verified","C",1853,3,0,"MORTGAGE",1,11.6082356447746,0,0
+"97","f","debt_consolidation",12.62,335.12,75000,20.05,"Source Verified","C",12974,0,1,"RENT",1,11.2252433925184,1,0
+"100","w","small_business",30.79,413.79,18000,59.8,"Verified","G",11565,2,0,"RENT",1,9.7981270368783,1,0
+"102","w","credit_card",5.32,752.87,135000,15.63,"Source Verified","A",14524,7,4,"MORTGAGE",0,11.8130300574206,1,1
+"104","w","debt_consolidation",14.08,489.51,95000,10.55,"Source Verified","C",3676,3,0,"OWN",1,11.4616321705827,1,0
+"106","w","credit_card",12.62,502.67,60000,15.32,"Verified","C",12821,2,1,"MORTGAGE",0,11.0020998412042,1,0
+"110","w","debt_consolidation",15.05,520.35,71000,19.54,"Verified","C",9100,1,0,"RENT",0,11.1704351560235,1,0
+"113","w","debt_consolidation",20,520.3,40000,37.83,"Not Verified","D",14728,1,0,"RENT",0,10.5966347330961,0,0
+"121","f","home_improvement",9.93,709.16,96000,9.95,"Verified","B",10838,5,0,"OWN",1,11.47210347045,1,1
+"122","w","debt_consolidation",24.85,731.59,4e+05,6.09,"Not Verified","E",15200,3,2,"MORTGAGE",0,12.8992198260901,0,0
+"126","w","credit_card",13.59,169.9,25000,19.18,"Not Verified","C",8590,3,0,"RENT",0,10.1266311038503,0,0
+"146","w","credit_card",6.08,304.59,50000,7.62,"Source Verified","A",10156,0,0,"RENT",1,10.8197782844103,1,1
+"151","w","debt_consolidation",6.72,92.25,40000,12.87,"Not Verified","A",6984,2,0,"MORTGAGE",0,10.5966347330961,0,1
+"158","w","debt_consolidation",20,297.31,67000,12.75,"Not Verified","D",9328,2,0,"RENT",0,11.1124478983731,0,0
+"161","f","credit_card",5.32,262,24000,16.2,"Source Verified","A",11523,0,0,"OWN",0,10.0858091093301,1,1
+"163","w","debt_consolidation",7.21,991.15,130000,7.11,"Verified","A",6327,2,0,"MORTGAGE",0,11.7752897294377,1,1
+"164","f","debt_consolidation",23.88,195.85,23500,84.2,"Verified","E",48051,2,0,"RENT",0,10.0647557001323,1,0
+"170","w","debt_consolidation",22.91,586.71,60000,34.66,"Not Verified","E",7133,0,0,"MORTGAGE",0,11.0020998412042,0,0
+"172","w","debt_consolidation",9.93,45.13,20000,2.88,"Source Verified","B",2398,0,0,"RENT",0,9.90348755253613,1,1
+"187","w","debt_consolidation",16.02,729.87,42000,29.69,"Verified","C",18570,0,1,"MORTGAGE",0,10.6454248972655,1,0
+"189","w","credit_card",9.44,128.02,75000,16.13,"Source Verified","B",14681,4,0,"MORTGAGE",0,11.2252433925184,1,1
+"190","f","debt_consolidation",21.45,568.6,50000,12.87,"Source Verified","D",14941,2,0,"RENT",1,10.8197782844103,1,0
+"191","f","home_improvement",15.05,190.8,42500,14.12,"Not Verified","C",10792,3,1,"OWN",1,10.6572593549125,0,0
+"192","w","credit_card",19.03,73.35,30000,23.48,"Source Verified","D",2106,2,0,"RENT",0,10.3089526606443,1,0
+"195","w","debt_consolidation",14.08,513.25,60000,24.88,"Source Verified","C",17105,1,1,"RENT",0,11.0020998412042,1,0
+"207","w","debt_consolidation",15.05,476.33,58000,17.32,"Verified","C",556,1,1,"MORTGAGE",1,10.9681982895286,1,0
+"208","w","home_improvement",6.08,731,80000,14.97,"Not Verified","A",26170,0,0,"OWN",1,11.289781913656,0,1
+"210","f","debt_consolidation",14.08,479.04,61000,25.48,"Not Verified","C",20632,3,0,"RENT",1,11.0186291431554,0,0
+"212","w","credit_card",7.97,798.73,45000,34.89,"Source Verified","A",42338,0,0,"MORTGAGE",1,10.7144177687525,1,1
+"219","w","home_improvement",5.32,752.87,180000,12.64,"Not Verified","A",3975,2,0,"MORTGAGE",0,12.1007121298723,0,1
+"229","f","debt_consolidation",10.91,326.97,95370,20.56,"Not Verified","B",35130,3,0,"MORTGAGE",0,11.465519342573,0,1
+"237","w","credit_card",17.09,249.01,30000,23.78,"Verified","D",4879,5,0,"RENT",0,10.3089526606443,1,0
+"246","w","small_business",11.99,66.42,63000,20.76,"Not Verified","B",13112,0,0,"RENT",1,11.0508900053737,0,1
+"248","w","debt_consolidation",13.59,220.87,51000,36.35,"Not Verified","C",17696,6,0,"MORTGAGE",1,10.8395809117065,0,0
+"249","f","debt_consolidation",19.03,293.37,31000,19.42,"Verified","D",0,0,0,"OWN",1,10.3417424834673,1,0
+"254","w","debt_consolidation",13.59,101.94,44000,12.6,"Not Verified","C",8869,1,0,"RENT",0,10.6919449129004,0,0
+"261","w","debt_consolidation",18.06,330.54,98000,7.07,"Source Verified","D",2802,0,0,"RENT",1,11.4927227576527,1,0
+"264","w","debt_consolidation",10.42,389.58,110000,19.38,"Not Verified","B",16486,1,0,"MORTGAGE",0,11.6082356447746,0,1
+"275","f","credit_card",10.91,523.14,62000,19.74,"Source Verified","B",16696,1,0,"RENT",0,11.0348896640272,1,1
+"289","f","debt_consolidation",14.08,919.57,74000,21.44,"Verified","C",19066,0,0,"RENT",0,11.2118203721863,1,0
+"293","w","credit_card",21.45,955.75,185000,11.57,"Verified","D",54934,1,0,"OWN",1,12.1281111040605,1,0
+"304","w","credit_card",11.99,166.05,27000,37.42,"Not Verified","B",11290,1,0,"OWN",1,10.2035921449865,0,1
+"310","w","credit_card",7.97,532.49,80100,19,"Not Verified","A",11485,0,0,"MORTGAGE",1,11.2910311330565,0,1
+"317","w","debt_consolidation",11.99,889.58,2e+05,13.01,"Source Verified","B",10763,0,0,"RENT",1,12.2060726455302,1,1
+"318","w","credit_card",7.97,469.84,60000,19.2,"Not Verified","A",25011,2,0,"MORTGAGE",0,11.0020998412042,0,1
+"319","w","debt_consolidation",25.82,447.51,65000,29.73,"Verified","E",11415,1,0,"MORTGAGE",1,11.0821425488778,1,0
+"320","w","credit_card",14.08,342.17,60000,20.28,"Source Verified","C",18518,1,0,"RENT",1,11.0020998412042,1,0
+"332","w","debt_consolidation",19.03,415.32,79882.37,14.19,"Not Verified","D",22625,2,0,"MORTGAGE",0,11.2883104565939,0,0
+"337","w","debt_consolidation",21.45,132.68,24000,25.61,"Not Verified","D",10745,0,0,"RENT",0,10.0858091093301,0,0
+"338","w","credit_card",14.08,136.87,26000,5.12,"Not Verified","C",7049,1,0,"RENT",1,10.1658518170036,0,0
+"341","w","debt_consolidation",9.93,225.65,52445,16.13,"Source Verified","B",9076,0,0,"MORTGAGE",0,10.8675202803957,1,1
+"347","w","home_improvement",10.42,1136.27,150000,11.01,"Verified","B",32696,2,0,"MORTGAGE",1,11.9183905730784,1,1
+"354","f","home_improvement",10.42,389.58,98000,7.38,"Not Verified","B",11021,6,2,"MORTGAGE",1,11.4927227576527,0,1
+"367","w","debt_consolidation",30.79,1149.42,80100,14.11,"Verified","G",22093,1,1,"MORTGAGE",0,11.2910311330565,1,0
+"372","f","credit_card",18.06,289.47,58000,8.3,"Not Verified","D",4722,1,1,"RENT",1,10.9681982895286,0,0
+"375","w","debt_consolidation",21.45,655.38,1e+05,3.52,"Not Verified","D",18,6,0,"RENT",1,11.5129254649702,0,0
+"378","w","credit_card",12.62,402.14,35000,28.33,"Source Verified","C",4696,3,0,"MORTGAGE",0,10.4631033404715,1,0
+"381","f","credit_card",17.09,214.19,55000,11.76,"Not Verified","D",19857,1,0,"RENT",1,10.9150884642146,0,0
+"383","w","debt_consolidation",9.93,742.45,167000,3.82,"Source Verified","B",1787,2,2,"MORTGAGE",0,12.0257490913989,1,1
+"384","w","major_purchase",23.88,1004.45,95000,5.46,"Verified","E",12909,2,0,"OWN",1,11.4616321705827,1,0
+"386","f","credit_card",14.08,821.2,135000,34.16,"Verified","C",74529,1,0,"MORTGAGE",1,11.8130300574206,1,0
+"394","w","credit_card",15.05,138.76,68000,12.85,"Source Verified","C",17047,1,0,"RENT",1,11.1272629841582,1,0
+"395","f","debt_consolidation",15.05,1387.6,189000,29.94,"Verified","C",84987,5,0,"MORTGAGE",1,12.1495022940418,1,0
+"397","w","debt_consolidation",10.91,130.79,112000,18.26,"Not Verified","B",21028,1,0,"RENT",1,11.6262541502772,0,1
+"398","w","debt_consolidation",7.97,493.33,75000,19.9,"Not Verified","A",13417,2,1,"MORTGAGE",1,11.2252433925184,0,1
+"402","w","home_improvement",11.99,889.58,110000,6.21,"Not Verified","B",0,1,0,"RENT",1,11.6082356447746,0,1
+"403","w","debt_consolidation",14.08,684.33,1e+05,18.58,"Source Verified","C",25669,0,1,"MORTGAGE",1,11.5129254649702,1,0
+"413","w","credit_card",10.42,350.62,49500,19.03,"Not Verified","B",12509,2,1,"RENT",1,10.8097279485568,0,1
+"420","w","credit_card",18.06,361.83,48000,38.25,"Verified","D",33307,0,0,"MORTGAGE",1,10.77895628989,1,0
+"426","w","debt_consolidation",10.42,472,82000,22.22,"Verified","B",6602,1,0,"RENT",0,11.3144745262464,1,1
+"431","w","home_improvement",16.02,139.79,56000,9.62,"Source Verified","C",72,3,2,"OWN",1,10.9331069697173,1,0
+"433","f","home_improvement",15.05,346.9,50000,28.16,"Not Verified","C",12959,1,0,"MORTGAGE",1,10.8197782844103,0,0
+"434","f","debt_consolidation",20,148.66,56000,5.51,"Source Verified","D",6291,0,0,"MORTGAGE",1,10.9331069697173,1,0
+"442","f","debt_consolidation",24.85,277.77,24000,31.6,"Verified","E",7607,2,0,"RENT",1,10.0858091093301,1,0
+"454","w","credit_card",7.97,563.81,85000,15.22,"Not Verified","A",5527,0,2,"MORTGAGE",0,11.3504065354725,0,1
+"463","w","debt_consolidation",10.42,194.79,60000,26.24,"Not Verified","B",6546,10,0,"OWN",0,11.0020998412042,0,1
+"466","w","credit_card",7.07,340.01,74000,22.28,"Verified","A",7437,0,0,"OWN",0,11.2118203721863,1,1
+"467","w","debt_consolidation",16.02,140.67,44000,26.6,"Not Verified","C",5217,3,1,"MORTGAGE",1,10.6919449129004,0,0
+"474","w","debt_consolidation",9.93,636.38,104000,10.42,"Verified","B",14208,0,0,"RENT",0,11.5521461781235,1,1
+"482","f","credit_card",13.59,489.3,40000,27.42,"Not Verified","C",13251,3,0,"RENT",1,10.5966347330961,0,0
+"492","f","debt_consolidation",15.05,867.25,98000,15.75,"Not Verified","C",20463,3,0,"MORTGAGE",0,11.4927227576527,0,0
+"495","w","debt_consolidation",10.42,858.18,180000,5.83,"Source Verified","B",9458,6,0,"MORTGAGE",0,12.1007121298723,1,1
+"499","w","home_improvement",17.09,498.02,60000,32.12,"Not Verified","D",4958,0,4,"OWN",1,11.0020998412042,0,0
+"504","w","credit_card",19.03,183.36,62000,4.12,"Not Verified","D",7493,1,0,"RENT",0,11.0348896640272,0,0
+"509","w","credit_card",7.97,125.3,50000,9.22,"Not Verified","A",16846,2,0,"MORTGAGE",0,10.8197782844103,0,1
+"511","w","debt_consolidation",16.02,510.91,56000,15.37,"Verified","C",7687,0,1,"MORTGAGE",1,10.9331069697173,1,0
+"513","w","debt_consolidation",14.08,492.72,73000,16.54,"Source Verified","C",9139,2,0,"RENT",1,11.1982147201305,1,0
+"524","w","debt_consolidation",11.99,398.52,55000,15.99,"Source Verified","B",754,1,1,"RENT",0,10.9150884642146,1,1
+"530","f","debt_consolidation",26.3,809.02,34800,26.41,"Verified","E",4053,3,0,"OWN",0,10.4573726657626,1,0
+"534","w","debt_consolidation",15.05,693.8,70000,26.35,"Source Verified","C",20903,0,0,"RENT",1,11.1562505210315,1,0
+"542","w","credit_card",10.91,238.68,70000,17.32,"Verified","B",34649,1,1,"RENT",1,11.1562505210315,1,1
+"543","w","debt_consolidation",25.82,298.34,65000,26.45,"Source Verified","E",2993,3,0,"MORTGAGE",0,11.0821425488778,1,0
+"550","w","home_improvement",11.99,265.68,90000,8.01,"Not Verified","B",5706,2,0,"OWN",0,11.4075649493124,0,1
+"553","f","debt_consolidation",16.02,729.87,98000,16.21,"Not Verified","C",3751,5,0,"OWN",0,11.4927227576527,0,0
+"555","w","debt_consolidation",7.35,248.3,38000,30.13,"Source Verified","A",2008,1,0,"RENT",0,10.5453414387085,1,1
+"557","w","credit_card",7.21,346.9,79600,10.24,"Not Verified","A",5772,1,0,"MORTGAGE",0,11.2847693718325,0,1
+"559","w","debt_consolidation",7.97,626.46,47000,9.01,"Verified","A",1278,0,0,"OWN",1,10.7579028806922,1,1
+"564","w","debt_consolidation",20,847.81,80000,16.61,"Verified","D",9536,3,1,"MORTGAGE",1,11.289781913656,1,0
+"565","w","major_purchase",16.02,105.51,26000,28.44,"Verified","C",7564,5,0,"RENT",1,10.1658518170036,1,0
+"566","f","credit_card",9.44,320.05,85000,22.15,"Not Verified","B",10413,3,0,"RENT",0,11.3504065354725,0,1
+"570","w","home_improvement",11.99,182.66,56000,22.27,"Verified","B",9475,0,0,"MORTGAGE",1,10.9331069697173,1,1
+"571","w","credit_card",21.45,382.3,3e+05,15.54,"Source Verified","D",155040,1,0,"MORTGAGE",0,12.6115377536383,1,0
+"572","w","debt_consolidation",21.45,303.26,44000,17.43,"Source Verified","D",19041,2,0,"RENT",1,10.6919449129004,1,0
+"574","w","major_purchase",7.21,464.6,90000,11.25,"Verified","A",4714,4,0,"RENT",1,11.4075649493124,1,1
+"575","f","debt_consolidation",30.75,1177.68,190000,16.52,"Verified","F",13316,3,0,"RENT",0,12.1547793511426,1,0
+"596","w","debt_consolidation",17.09,356.98,45000,22.99,"Not Verified","D",6916,1,0,"RENT",0,10.7144177687525,0,0
+"598","w","credit_card",9.44,144.03,47235.72,20.96,"Source Verified","B",18941,0,0,"OWN",0,10.7629056650213,1,1
+"606","w","major_purchase",20,927.29,95513,6.01,"Verified","D",0,3,0,"RENT",1,11.467017642859,1,0
+"607","w","credit_card",19.03,830.63,185000,16.69,"Source Verified","D",34534,0,1,"MORTGAGE",1,12.1281111040605,1,0
+"625","w","debt_consolidation",18.06,452.29,95000,12.99,"Not Verified","D",10579,2,1,"RENT",0,11.4616321705827,0,0
+"632","w","debt_consolidation",12.62,270.71,60000,11.44,"Source Verified","C",6782,0,0,"MORTGAGE",0,11.0020998412042,1,0
+"640","w","home_improvement",14.08,171.09,120000,1.84,"Source Verified","C",7774,0,0,"OWN",1,11.6952470217642,1,0
+"642","w","debt_consolidation",16.02,496.31,62000,23.21,"Not Verified","C",6009,4,0,"OWN",0,11.0348896640272,0,0
+"644","w","home_improvement",13.59,271.84,90000,23.89,"Not Verified","C",38857,3,1,"MORTGAGE",0,11.4075649493124,0,0
+"645","w","credit_card",20,635.86,44000,25.48,"Verified","D",6677,0,0,"OWN",1,10.6919449129004,1,0
+"646","w","debt_consolidation",23.88,459.18,1e+05,15.53,"Verified","E",5000,8,0,"MORTGAGE",0,11.5129254649702,1,0
+"649","f","debt_consolidation",15.05,795.27,71000,10.95,"Not Verified","C",7414,1,3,"MORTGAGE",0,11.1704351560235,0,0
+"650","w","debt_consolidation",11.99,99.63,18000,17,"Source Verified","B",5473,1,0,"MORTGAGE",0,9.7981270368783,1,1
+"662","w","debt_consolidation",10.91,1307.85,209000,3.88,"Verified","B",4616,3,0,"RENT",1,12.2500895309469,1,1
+"666","f","credit_card",7.21,464.6,80000,30.68,"Not Verified","A",17613,3,0,"OWN",0,11.289781913656,0,1
+"668","f","debt_consolidation",10.42,324.65,65000,20.27,"Source Verified","B",15992,2,0,"RENT",0,11.0821425488778,1,1
+"675","w","credit_card",6.08,304.59,50000,20.02,"Source Verified","A",4512,1,0,"MORTGAGE",0,10.8197782844103,1,1
+"679","w","debt_consolidation",5.32,301.15,1e+05,8.7,"Source Verified","A",8385,3,0,"MORTGAGE",0,11.5129254649702,1,1
+"682","w","debt_consolidation",7.35,273.13,70000,24.41,"Not Verified","A",11567,1,0,"RENT",0,11.1562505210315,0,1
+"684","w","debt_consolidation",19.03,550.07,29000,23.68,"Source Verified","D",11137,2,0,"RENT",1,10.2750511089686,1,0
+"685","w","debt_consolidation",7.07,309.1,105000,2.91,"Not Verified","A",11660,0,0,"RENT",1,11.5617156291397,0,1
+"688","w","debt_consolidation",10.91,490.45,50000,14.26,"Not Verified","B",4967,0,0,"RENT",1,10.8197782844103,0,1
+"689","w","debt_consolidation",10.91,343.31,1e+05,9.02,"Not Verified","B",19569,0,0,"RENT",0,11.5129254649702,0,1
+"690","w","credit_card",10.91,523.14,255000,3.43,"Not Verified","B",15422,2,0,"RENT",0,12.4490188241406,0,1
+"695","w","credit_card",7.97,187.94,75000,15.04,"Not Verified","A",15615,0,0,"MORTGAGE",1,11.2252433925184,0,1
+"701","w","debt_consolidation",9.44,480.08,150000,5.62,"Source Verified","B",5239,2,0,"MORTGAGE",0,11.9183905730784,1,1
+"703","w","debt_consolidation",16.02,1230.85,97000,13.87,"Verified","C",17447,8,4,"MORTGAGE",0,11.4824662574855,1,0
+"705","w","debt_consolidation",20,741.83,130000,26.38,"Verified","D",23861,3,0,"MORTGAGE",0,11.7752897294377,1,0
+"710","w","debt_consolidation",17.09,373.52,75000,17.42,"Verified","D",17283,2,0,"MORTGAGE",0,11.2252433925184,1,0
+"712","w","home_improvement",13.59,332.01,3e+05,13.25,"Source Verified","C",19491,7,0,"MORTGAGE",0,12.6115377536383,1,0
+"714","w","home_improvement",10.42,324.65,80000,24.89,"Source Verified","B",7907,0,1,"RENT",1,11.289781913656,1,1
+"720","f","debt_consolidation",17.09,535.47,60000,4.66,"Source Verified","D",8423,1,0,"RENT",1,11.0020998412042,1,0
+"721","w","credit_card",11.99,249.09,99000,26.68,"Source Verified","B",15471,1,0,"MORTGAGE",0,11.5028751291167,1,1
+"722","w","debt_consolidation",12.62,120.65,62000,30.66,"Source Verified","C",2194,2,0,"RENT",1,11.0348896640272,1,0
+"725","w","debt_consolidation",6.08,1218.33,105000,1.9,"Not Verified","A",7025,2,0,"MORTGAGE",1,11.5617156291397,0,1
+"726","w","debt_consolidation",15.05,520.35,55000,14.38,"Source Verified","C",9892,0,2,"MORTGAGE",0,10.9150884642146,1,0
+"728","f","debt_consolidation",25.82,1004.87,150000,13.86,"Verified","E",29830,4,0,"MORTGAGE",1,11.9183905730784,1,0
+"737","w","credit_card",25.82,389.34,31500,38.36,"Verified","E",10489,4,0,"OWN",0,10.3577428248137,1,0
+"740","w","small_business",7.97,140.96,75000,17.46,"Not Verified","A",23500,1,0,"RENT",1,11.2252433925184,0,1
+"741","f","debt_consolidation",6.72,153.75,40000,21.9,"Not Verified","A",3500,0,0,"MORTGAGE",0,10.5966347330961,0,1
+"748","w","debt_consolidation",17.09,399.82,90000,12.57,"Verified","D",8197,2,2,"MORTGAGE",1,11.4075649493124,1,0
+"757","w","debt_consolidation",17.09,395.31,60000,10,"Source Verified","D",501,4,0,"RENT",1,11.0020998412042,1,0
+"760","w","credit_card",9.44,307.25,45000,19.24,"Source Verified","B",10122,0,0,"RENT",1,10.7144177687525,1,1
+"764","f","debt_consolidation",15.05,693.8,1e+05,20.2,"Source Verified","C",11983,0,1,"MORTGAGE",1,11.5129254649702,1,0
+"765","f","credit_card",14.08,1197.58,250000,17.94,"Not Verified","C",41152,0,0,"RENT",0,12.4292161968444,0,0
+"767","w","credit_card",17.09,796.84,90000,29.84,"Verified","D",36480,3,1,"MORTGAGE",1,11.4075649493124,1,0
+"774","w","home_improvement",21.45,273.08,74880,14.54,"Source Verified","D",24913,1,0,"MORTGAGE",1,11.2236421111515,1,0
+"775","w","debt_consolidation",21.45,576.18,58000,2.65,"Source Verified","D",2147,1,1,"OWN",1,10.9681982895286,1,0
+"782","w","credit_card",14.08,188.2,41919,48.91,"Verified","C",3910,3,0,"RENT",0,10.6434944637486,1,0
+"787","w","debt_consolidation",9.44,447.27,47000,9.65,"Not Verified","B",14674,0,0,"RENT",0,10.7579028806922,0,1
+"788","w","debt_consolidation",16.02,588.17,62000,23.09,"Not Verified","C",6318,0,0,"OWN",1,11.0348896640272,0,0
+"790","w","major_purchase",26.3,903.55,61000,3.66,"Verified","E",1788,1,0,"RENT",1,11.0186291431554,1,0
+"791","w","debt_consolidation",13.59,271.84,70000,16.05,"Not Verified","C",11817,3,0,"RENT",0,11.1562505210315,0,0
+"799","w","credit_card",13.59,461.13,98000,14.44,"Verified","C",25100,3,0,"MORTGAGE",1,11.4927227576527,1,0
+"800","w","home_improvement",9.93,128.94,70000,23.66,"Verified","B",8746,3,0,"MORTGAGE",0,11.1562505210315,1,1
+"804","w","home_improvement",9.93,290.11,120000,2.26,"Not Verified","B",6950,1,0,"MORTGAGE",0,11.6952470217642,0,1
+"814","f","major_purchase",16.02,175.84,138000,2.16,"Source Verified","C",10,3,0,"RENT",1,11.8350089641393,1,0
+"824","f","debt_consolidation",14.08,273.74,48300,18.42,"Not Verified","C",13995,2,0,"RENT",0,10.7851868396407,0,0
+"825","w","debt_consolidation",19.03,249.37,42000,13.71,"Not Verified","D",670,5,0,"RENT",1,10.6454248972655,0,0
+"826","f","debt_consolidation",13.59,135.92,30000,23.24,"Source Verified","C",11341,3,0,"OWN",1,10.3089526606443,1,0
+"827","w","debt_consolidation",16.02,973.15,2e+05,11.83,"Source Verified","C",23400,1,2,"MORTGAGE",1,12.2060726455302,1,0
+"828","w","debt_consolidation",9.93,80.59,63000,24.99,"Not Verified","B",9788,3,0,"RENT",0,11.0508900053737,0,1
+"844","w","major_purchase",30.17,421.96,39040,17.77,"Source Verified","F",94,3,0,"RENT",1,10.572342040527,1,0
+"851","f","credit_card",13.59,169.9,90000,25.21,"Not Verified","C",9161,0,0,"MORTGAGE",1,11.4075649493124,0,0
+"854","w","debt_consolidation",22.91,38.67,55000,35.71,"Source Verified","E",11673,2,3,"OWN",0,10.9150884642146,1,0
+"861","w","debt_consolidation",15.05,277.52,70000,15.69,"Not Verified","C",5059,6,0,"RENT",0,11.1562505210315,0,0
+"863","w","credit_card",17.09,318.74,78000,18.55,"Not Verified","D",5954,2,0,"RENT",0,11.2644641056717,0,0
+"879","w","debt_consolidation",12.62,837.79,118000,18.43,"Source Verified","C",14039,6,0,"MORTGAGE",1,11.6784399034478,1,0
+"880","w","credit_card",9.93,424.26,70000,13.53,"Not Verified","B",23151,1,0,"MORTGAGE",0,11.1562505210315,0,1
+"884","w","credit_card",10.42,162.33,68500,12.58,"Not Verified","B",6066,2,3,"RENT",0,11.1345890242503,0,1
+"889","w","debt_consolidation",16.02,583.89,106000,23.04,"Verified","C",26051,1,0,"MORTGAGE",1,11.5711943730942,1,0
+"901","w","home_improvement",15.05,520.35,55000,4.3,"Verified","C",3071,3,0,"OWN",1,10.9150884642146,1,0
+"902","w","debt_consolidation",15.05,1040.7,140000,14.47,"Not Verified","C",11143,3,6,"OWN",1,11.8493977015914,0,0
+"910","f","debt_consolidation",16.02,879.18,149612,7.53,"Source Verified","C",7690,1,4,"MORTGAGE",1,11.9158005552093,1,0
+"911","w","debt_consolidation",10.91,1144.37,135000,15.53,"Verified","B",19090,1,0,"RENT",0,11.8130300574206,1,1
+"913","w","home_improvement",19.03,132.02,56000,12.1,"Verified","D",2291,6,0,"MORTGAGE",0,10.9331069697173,1,0
+"917","w","debt_consolidation",16.02,175.84,50400,11.38,"Verified","C",5086,2,0,"MORTGAGE",0,10.8277464540595,1,0
+"922","w","debt_consolidation",18.06,347.36,48000,36.81,"Verified","D",5212,6,0,"OWN",1,10.77895628989,1,0
+"940","w","debt_consolidation",17.09,697.23,125000,16.03,"Verified","D",15375,1,0,"MORTGAGE",1,11.7360690162844,1,0
+"951","w","debt_consolidation",14.08,239.52,68000,10.27,"Source Verified","C",3691,6,2,"MORTGAGE",0,11.1272629841582,1,0
+"955","f","home_improvement",12.62,100.54,65000,21.12,"Not Verified","C",10946,2,0,"MORTGAGE",0,11.0821425488778,0,0
+"964","w","home_improvement",22.91,579.95,170000,11.03,"Not Verified","E",4251,8,1,"MORTGAGE",0,12.0435537160324,0,0
+"982","f","credit_card",16.02,458.05,60000,2.1,"Source Verified","C",2227,7,0,"RENT",0,11.0020998412042,1,0
+"983","w","debt_consolidation",25.82,775.69,90000,22.92,"Verified","E",23385,3,2,"MORTGAGE",1,11.4075649493124,1,0
+"999","w","debt_consolidation",16.02,703.34,120000,20.12,"Not Verified","C",14488,4,0,"MORTGAGE",0,11.6952470217642,0,0
+"1002","w","major_purchase",12.62,451.19,92300,19.47,"Source Verified","C",2757,8,1,"MORTGAGE",1,11.4327994204909,1,0
+"1003","w","major_purchase",25.82,1326.43,66000,8.4,"Verified","E",2603,2,0,"OWN",1,11.0974100210086,1,0
+"1010","w","debt_consolidation",14.08,410.6,45000,11.76,"Verified","C",10078,2,0,"RENT",0,10.7144177687525,1,0
+"1013","w","credit_card",21.45,327.69,85000,3.77,"Not Verified","D",8540,1,0,"RENT",0,11.3504065354725,0,0
+"1017","w","home_improvement",16.02,316.51,54000,10.33,"Source Verified","C",5402,3,0,"MORTGAGE",1,10.8967393255464,1,0
+"1021","w","debt_consolidation",15.05,333.43,50000,20.04,"Source Verified","C",8768,5,1,"MORTGAGE",0,10.8197782844103,1,0
+"1022","w","debt_consolidation",11.99,298.89,105000,12.32,"Source Verified","B",10331,0,1,"MORTGAGE",0,11.5617156291397,1,1
+"1026","w","debt_consolidation",7.35,682.83,76000,23.69,"Verified","A",44655,1,0,"MORTGAGE",1,11.2384886192685,1,1
+"1035","w","credit_card",30.17,772.5,53000,31.36,"Not Verified","F",17327,1,0,"RENT",0,10.8780471925343,0,0
+"1039","w","debt_consolidation",17.09,662.19,42200,12.63,"Verified","D",6682,1,0,"MORTGAGE",0,10.6501755000241,1,0
+"1044","w","debt_consolidation",23.88,459.18,98000,11.01,"Source Verified","E",107534,3,2,"MORTGAGE",1,11.4927227576527,1,0
+"1047","w","debt_consolidation",7.21,154.87,30500,24.15,"Source Verified","A",5304,2,0,"MORTGAGE",1,10.3254819625955,1,1
+"1050","w","credit_card",5.32,52.71,158000,11.23,"Not Verified","A",3943,3,0,"RENT",0,11.9703503120091,0,1
+"1054","w","debt_consolidation",28.72,789.3,40000,20.11,"Verified","F",10833,2,0,"RENT",1,10.5966347330961,1,0
+"1059","f","debt_consolidation",21.45,576.18,125000,19.46,"Not Verified","D",1287,2,1,"RENT",1,11.7360690162844,0,0
+"1073","f","credit_card",11.99,199.26,42000,15.09,"Not Verified","B",2652,6,0,"RENT",0,10.6454248972655,0,1
+"1074","w","debt_consolidation",13.59,135.92,25000,6.39,"Source Verified","C",2650,0,0,"RENT",1,10.1266311038503,1,0
+"1077","w","debt_consolidation",12.62,270.71,60000,6.52,"Verified","C",4822,7,0,"MORTGAGE",0,11.0020998412042,1,0
+"1079","w","debt_consolidation",9.93,257.88,63000,13.2,"Source Verified","B",21536,2,1,"MORTGAGE",1,11.0508900053737,1,1
+"1084","w","major_purchase",13.59,67.96,90000,7.95,"Source Verified","C",5448,4,0,"MORTGAGE",0,11.4075649493124,1,0
+"1087","w","home_improvement",15.05,693.8,110000,9.76,"Source Verified","C",23429,1,1,"MORTGAGE",0,11.6082356447746,1,0
+"1108","w","credit_card",7.35,310.38,107000,17.78,"Not Verified","A",8047,2,0,"RENT",1,11.580584113444,0,1
+"1117","w","debt_consolidation",9.93,257.88,85000,28.35,"Not Verified","B",30010,0,0,"MORTGAGE",0,11.3504065354725,0,1
+"1125","w","credit_card",7.07,231.82,38000,13.96,"Not Verified","A",5604,0,0,"RENT",1,10.5453414387085,0,1
+"1127","w","debt_consolidation",16.02,467.12,62000,19.98,"Source Verified","C",9023,0,0,"RENT",1,11.0348896640272,1,0
+"1141","w","debt_consolidation",18.06,284.78,35000,36.56,"Verified","D",956,14,0,"RENT",0,10.4631033404715,1,0
+"1145","w","debt_consolidation",20,148.66,40000,17.73,"Source Verified","D",1799,0,1,"MORTGAGE",1,10.5966347330961,1,0
+"1146","w","debt_consolidation",7.97,375.88,6e+05,8.72,"Verified","A",228292,4,1,"MORTGAGE",0,13.3046849341983,1,1
+"1147","w","debt_consolidation",14.08,155.69,60000,32.16,"Verified","C",3104,2,0,"MORTGAGE",0,11.0020998412042,1,0
+"1153","w","debt_consolidation",9.93,206.3,65000,21.57,"Not Verified","B",15508,0,1,"OWN",0,11.0821425488778,0,1
+"1159","w","debt_consolidation",11.99,833.98,75000,27.19,"Verified","B",17135,0,0,"MORTGAGE",0,11.2252433925184,1,1
+"1161","w","debt_consolidation",15.05,173.45,60000,34.48,"Verified","C",16032,7,0,"RENT",0,11.0020998412042,1,0
+"1163","w","debt_consolidation",19.03,415.32,45000,22.88,"Verified","D",6153,3,0,"RENT",1,10.7144177687525,1,0
+"1176","w","debt_consolidation",6.72,184.5,65000,14.77,"Not Verified","A",7655,0,0,"RENT",0,11.0821425488778,0,1
+"1181","w","debt_consolidation",20,668.95,110000,23.82,"Not Verified","D",19224,7,0,"MORTGAGE",0,11.6082356447746,0,0
+"1182","w","debt_consolidation",15.05,357.25,41000,40.07,"Not Verified","C",8590,4,1,"OWN",0,10.6213273456864,0,0
+"1185","w","debt_consolidation",9.44,1280.2,260000,30.5,"Verified","B",176233,0,0,"MORTGAGE",1,12.4684369099977,1,1
+"1206","w","home_improvement",11.99,1328.39,188000,7.83,"Source Verified","B",2102,6,0,"MORTGAGE",0,12.1441972418121,1,1
+"1214","w","home_improvement",12.62,134.05,110000,6.26,"Source Verified","C",15323,3,3,"MORTGAGE",0,11.6082356447746,1,0
+"1228","w","debt_consolidation",10.42,519.44,2500,198.56,"Not Verified","B",401,2,0,"MORTGAGE",0,7.82404601085629,0,1
+"1231","w","debt_consolidation",18.06,810.49,89000,20.52,"Not Verified","D",7770,2,1,"MORTGAGE",1,11.3963916487143,0,0
+"1232","w","debt_consolidation",11.99,385.24,72800,30.38,"Verified","B",9094,5,0,"MORTGAGE",0,11.1954712341848,1,1
+"1233","w","major_purchase",9.44,80.02,70000,18.09,"Not Verified","B",174570,5,0,"OWN",1,11.1562505210315,0,1
+"1234","f","credit_card",15.05,346.9,38000,21.76,"Source Verified","C",7308,0,0,"OWN",0,10.5453414387085,1,0
+"1235","w","debt_consolidation",7.97,563.81,75000,33.23,"Not Verified","A",21277,1,0,"MORTGAGE",1,11.2252433925184,0,1
+"1241","w","debt_consolidation",7.21,247.79,1e+05,20.45,"Not Verified","A",19556,1,0,"RENT",1,11.5129254649702,0,1
+"1250","f","debt_consolidation",13.59,679.58,76902,13.06,"Not Verified","C",5439,7,1,"RENT",0,11.2502871629579,0,0
+"1251","w","credit_card",13.59,737.8,98250,11.01,"Verified","C",8829,6,0,"MORTGAGE",0,11.4952705297315,1,0
+"1256","w","debt_consolidation",10.91,653.93,115000,19.02,"Not Verified","B",31777,0,0,"RENT",1,11.6526874073454,0,1
+"1257","w","credit_card",9.44,320.05,74000,14.24,"Not Verified","B",43231,4,1,"MORTGAGE",1,11.2118203721863,0,1
+"1262","w","debt_consolidation",21.45,1326.73,96000,12.35,"Verified","D",83183,2,2,"OWN",1,11.47210347045,1,0
+"1265","w","debt_consolidation",19.03,198.03,70000,33.73,"Not Verified","D",20814,1,0,"MORTGAGE",0,11.1562505210315,0,0
+"1271","w","debt_consolidation",23.88,642.85,107500,10.72,"Not Verified","E",9765,0,0,"OWN",1,11.5852461265499,0,0
+"1275","w","debt_consolidation",11.99,531.36,190000,11.1,"Source Verified","B",22606,1,7,"MORTGAGE",1,12.1547793511426,1,1
+"1285","f","debt_consolidation",18.06,289.47,47500,14.6,"Not Verified","D",8593,1,1,"RENT",1,10.7684849900227,0,0
+"1291","w","debt_consolidation",15.05,121.42,25000,3.49,"Not Verified","C",4878,0,0,"OWN",1,10.1266311038503,0,0
+"1293","w","home_improvement",18.06,254.27,150000,18.49,"Verified","D",51942,3,0,"MORTGAGE",1,11.9183905730784,1,0
+"1294","w","credit_card",12.62,335.12,62500,12.6,"Not Verified","C",11423,3,0,"OWN",0,11.0429218357245,0,0
+"1300","w","debt_consolidation",11.99,244.64,1e+05,5.78,"Not Verified","B",7919,4,0,"MORTGAGE",0,11.5129254649702,0,1
+"1306","f","debt_consolidation",23.88,317.28,51000,24.71,"Not Verified","E",4742,4,0,"RENT",1,10.8395809117065,0,0
+"1314","w","credit_card",11.99,222.4,54000,3.98,"Source Verified","B",7895,2,1,"MORTGAGE",0,10.8967393255464,1,1
+"1321","f","debt_consolidation",17.09,178.49,48500,24.57,"Source Verified","D",12876,2,1,"RENT",0,10.7893190769256,1,0
+"1323","f","debt_consolidation",16.02,211.01,50000,30.32,"Source Verified","C",6383,1,0,"RENT",1,10.8197782844103,1,0
+"1336","w","debt_consolidation",9.93,322.35,78000,4.01,"Source Verified","B",2630,2,1,"MORTGAGE",0,11.2644641056717,1,1
+"1355","w","home_improvement",15.05,277.52,18000,17.53,"Verified","C",14951,1,0,"MORTGAGE",1,9.7981270368783,1,0
+"1357","w","debt_consolidation",9.44,1280.2,2e+05,8.33,"Verified","B",52686,0,0,"MORTGAGE",0,12.2060726455302,1,1
+"1359","f","debt_consolidation",16.02,1230.85,50000,6.53,"Source Verified","C",12201,0,0,"MORTGAGE",1,10.8197782844103,1,0
+"1365","w","debt_consolidation",14.08,233.1,48000,11.95,"Verified","C",7779,3,0,"MORTGAGE",1,10.77895628989,1,0
+"1367","w","debt_consolidation",10.91,1144.37,133000,1.75,"Verified","B",1425,2,0,"OWN",1,11.7981044072039,1,1
+"1368","w","small_business",11.99,498.15,80000,17.24,"Source Verified","B",7335,1,1,"RENT",0,11.289781913656,1,1
+"1375","w","debt_consolidation",7.35,1184.08,50000,26.19,"Verified","A",22423,0,0,"OWN",0,10.8197782844103,1,1
+"1389","w","credit_card",10.42,311.67,26000,32.66,"Verified","B",7723,2,0,"RENT",0,10.1658518170036,1,1
+"1391","w","credit_card",10.42,300.37,82000,18.41,"Source Verified","B",17956,2,0,"OWN",0,11.3144745262464,1,1
+"1393","w","credit_card",9.93,530.32,70000,17.38,"Source Verified","B",33692,0,1,"OWN",0,11.1562505210315,1,1
+"1397","f","debt_consolidation",12.62,167.56,36000,24.67,"Verified","C",16682,2,0,"OWN",1,10.4912742174382,1,0
+"1406","w","debt_consolidation",18.06,311.47,70000,27.57,"Not Verified","D",10841,1,1,"OWN",0,11.1562505210315,0,0
+"1408","w","debt_consolidation",18.06,635.66,60000,37.32,"Not Verified","D",1670,2,0,"MORTGAGE",1,11.0020998412042,0,0
+"1412","f","home_improvement",23.88,470.04,38480,9.95,"Not Verified","E",27,6,1,"OWN",0,10.5578939047796,0,0
+"1426","w","debt_consolidation",16.02,267.27,46000,12.42,"Source Verified","C",21236,0,0,"RENT",0,10.7363966754712,1,0
+"1427","w","credit_card",7.35,279.34,40000,30.81,"Not Verified","A",1735,0,0,"MORTGAGE",0,10.5966347330961,0,1
+"1438","w","home_improvement",7.21,247.79,12000,163.15,"Source Verified","A",27398,0,0,"MORTGAGE",0,9.39266192877014,1,1
+"1439","w","debt_consolidation",25.82,895.02,150000,8.7,"Source Verified","E",25556,0,0,"RENT",0,11.9183905730784,1,0
+"1442","w","debt_consolidation",18.06,231.57,47000,23.21,"Verified","D",6631,3,0,"RENT",1,10.7579028806922,1,0
+"1448","w","credit_card",28.72,629.07,232000,26.25,"Source Verified","F",17890,1,0,"RENT",0,12.3544926506484,1,0
+"1451","w","debt_consolidation",24.85,293.37,150000,29.75,"Verified","E",10292,3,2,"MORTGAGE",1,11.9183905730784,1,0
+"1465","f","debt_consolidation",21.45,181.96,32000,23.03,"Verified","D",6600,3,0,"MORTGAGE",1,10.3734911817819,1,0
+"1466","w","debt_consolidation",18.06,52.47,48000,20.21,"Source Verified","D",18620,0,0,"RENT",0,10.77895628989,1,0
+"1470","w","debt_consolidation",10.42,146.1,35000,15.57,"Source Verified","B",1876,2,0,"RENT",1,10.4631033404715,1,1
+"1479","w","debt_consolidation",15.05,346.9,95000,13.68,"Verified","C",12568,6,0,"OWN",0,11.4616321705827,1,0
+"1490","w","debt_consolidation",16.02,422.01,90000,18.38,"Not Verified","C",43771,1,0,"MORTGAGE",0,11.4075649493124,0,0
+"1493","w","debt_consolidation",9.44,957.75,210000,28.37,"Verified","B",28026,3,0,"MORTGAGE",0,12.2548628096996,1,1
+"1494","f","debt_consolidation",16.02,580.26,68000,18.04,"Source Verified","C",13307,3,0,"RENT",0,11.1272629841582,1,0
+"1496","w","credit_card",16.02,351.67,82000,18.19,"Verified","C",35507,2,0,"MORTGAGE",0,11.3144745262464,1,0
+"1498","w","debt_consolidation",9.93,424.26,85000,8.6,"Source Verified","B",9630,0,0,"MORTGAGE",1,11.3504065354725,1,1
+"1504","w","debt_consolidation",15.05,476.33,106000,13.16,"Source Verified","C",17941,1,0,"MORTGAGE",0,11.5711943730942,1,0
+"1505","w","credit_card",11.99,664.2,70000,18.07,"Not Verified","B",10294,2,1,"RENT",1,11.1562505210315,0,1
+"1508","f","debt_consolidation",10.42,324.65,92000,9.95,"Not Verified","B",4491,1,1,"MORTGAGE",0,11.4295438560312,0,1
+"1509","w","home_improvement",11.99,222.4,78000,11.65,"Not Verified","B",14208,5,0,"MORTGAGE",0,11.2644641056717,0,1
+"1519","f","debt_consolidation",11.99,498.15,55000,7.52,"Source Verified","B",2542,3,0,"RENT",0,10.9150884642146,1,1
+"1520","f","credit_card",23.88,861.74,53320,12.99,"Verified","E",4563,6,0,"RENT",1,10.8840667742926,1,0
+"1528","w","debt_consolidation",13.59,679.58,70000,24.46,"Source Verified","C",11000,4,0,"RENT",1,11.1562505210315,1,0
+"1533","w","debt_consolidation",18.06,253.28,130000,16.05,"Not Verified","D",32630,1,3,"OWN",1,11.7752897294377,0,0
+"1538","w","credit_card",9.93,742.45,185000,4.36,"Not Verified","B",31328,4,0,"MORTGAGE",1,12.1281111040605,0,1
+"1552","w","debt_consolidation",10.42,103.89,80000,8.06,"Not Verified","B",2359,4,0,"MORTGAGE",0,11.289781913656,0,1
